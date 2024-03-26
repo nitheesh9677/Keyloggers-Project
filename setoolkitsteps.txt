@@ -1,0 +1,64 @@
+Self-registraion 
+
+https://sb-auth.skillsbuild.org/signup?ngo-id=0107
+
+
+learninf Plan 
+
+https://skills.yourlearning.ibm.com/activity/PLAN-DC0D0568B3BB
+
+NM
+
+https://www.naanmudhalvan.tn.gov.in/
+----------------------------
+VB
+
+https://www.virtualbox.org/wiki/Downloads
+
+kali linux
+
+https://www.osboxes.org/kali-linux/
+--------------------------------
+setoolkit
+
+1)sudo su
+
+2)setoolkit
+    1)se attack
+    2)website attack vector
+    3)credential hearverste
+  4)give ip
+ 5)ifconfig find ip open browser
+
+
+---------------------------
+
+any login template
+
+cd /var/www/html
+
+service apache2 start
+
+ifconfig
+
+wireshark --> http --> POST req
+----------------------------------------
+
+
+http://192.168.16.122/mypage/phishing-Instagram/
+
+https://www.instagram.com/
+------------------------------
+
+https://www.python.org/
+
+pip install pynput
+
+pip install jsonlib
+-------------------------------
+
+
+
+
+
+

